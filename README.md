@@ -6,7 +6,7 @@ Quick Formula was built entirely in Swift, with no external dependencies, and th
 <!-- <img src="images/darkroom/DarkRoomMaster.png" width="250" align="center" title="Darkroom GIF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/darkroom/DarkRoomDetail.png" width="250" align="center" title="Darkroom GIF">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/darkroom/Darkroom-demo.gif" width="250" align="center" title="Darkroom GIF"><br><br> -->
 
 <p align="center">
-<img src="images/dalilah/DalilahMaster.png" width="230"  title="Dalilah">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/dalilah/DalilahDetail.png" width="230" title="Dalilah">
+<img src="Images/QuickFormula/Favorites.jpg" width="230"  title="Quick Formula">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/QuickFormula/Calculate.jpg" width="230" title="Dalilah">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp<img src="Images/QuickFormula/Search.jpg" width="230"  title="Quick Formula">
 </p>
 
 # Stock Notify
