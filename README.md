@@ -8,7 +8,7 @@ Quick Formula is built entirely in Swift and the UI is created programmatically 
 </p>
 
 # Stock Notify
-Sends a push notification when a certain stock reaches a price that the user specified. This requires a back-end server which takes the POST request from the mobile device, then sends the push notification when the price is met. This uses the alphavantage.co REST api to fetch the name and price of the stock. The user can favorite stocks which uses Core Data to persist data. The user interface is built all programmatically. 
+Sends a push notification when a certain stock reaches a price that the user specified. This requires a back-end server which takes the POST request from the mobile device, then sends a push notification when the price is met. This uses the alphavantage.co REST api to fetch the name and price of the stock. The user can favorite stocks which uses Core Data to persist data. The user interface is built all programmatically. 
 
 
 <p align="center">
