@@ -1,5 +1,5 @@
 # Quick Formula
-[QuickFormula](https://apps.apple.com/us/app/quick-formula/id1462553451?ls=1) Calculates math and science formulas. Uses a segmented control to separate math and science formulas.  Available in the App Store.
+[Quick Formula](https://apps.apple.com/us/app/quick-formula/id1462553451?ls=1) Calculates math and science formulas. Uses a segmented control to separate math and science formulas.  Available in the App Store.
 
 Quick Formula is built entirely in Swift and the UI is created programmatically with no interface builder.
 
