@@ -4,7 +4,7 @@
 Quick Formula is built entirely in Swift and the UI is created programmatically with no interface builder.
 
 <p align="center">
-<img src="Images/Formula/fav.png" width="230"  title="Quick Formula">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Formula/cal.png" width="230" title=“Quick Formula”>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp<img src="Images/Formula/search.png" width="230"  title="Quick Formula">
+<img src="Images/Formula/fav.png" width="230"  title="Quick Formula">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/Formula/cal.png" width="230"  title=“Quick Formula”>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp<img src="Images/Formula/search.png" width="230"  title="Quick Formula">
 </p>
 
 # Stock Notify
