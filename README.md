@@ -12,5 +12,5 @@ Sends a push notification when a stock reaches a price that the user specified. 
 
 
 <p align="center">
-<img src="Images/StockNotify/Favorites.jpg" width="230"  title=“Stock Notify”>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/StockNotify/Search.jpg" width="230" title=“Stock Notify”>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/StockNotify/Demo.gif" width="228" title=“Stock Notify”>
+<img src="Images/StockNotify/Favorites.png" width="230"  title=“Stock Notify”>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/StockNotify/Search.png" width="230" title=“Stock Notify”>
 </p>
