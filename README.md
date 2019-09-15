@@ -1,5 +1,5 @@
 # Stock Notify
-Sends a push notification when a stock reaches a price that the user specified. This requires a back-end server which takes the POST request from the mobile device, then sends a push notification when the price is met. This uses the alphavantage.co REST API to fetch the name and price of the stock. The user can favorite stocks which uses Core Data to persist the data. The user interface is built all programmatically. 
+Sends a push notification when a stock reaches a price that the user specified. This requires a back-end server which takes the POST request from the mobile device, then sends a push notification when the price is met. This uses the alphavantage.co REST API to fetch the name and price of the stock. The user can favorite stocks which uses Core Data to persist the data. The user interface is built all programmatically. (Private Repository)
 
 
 <p align="center">
