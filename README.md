@@ -3,7 +3,7 @@ Sends a push notification when a stock reaches a price that the user specified. 
 
 
 <p align="center">
-<img src="Images/StockNotify/favorites.png" width="230"  title=“Stock Notify”>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/StockNotify/setupNotificationNew.png" width="230" title=“Stock Notify”>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/StockNotify/Search.png" width="230" title=“Stock Notify”>
+<img src="Images/StockNotify/favorites.png" width="230"  title=“Stock Notify”>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/StockNotify/notifySN.png" width="230" title=“Stock Notify”>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Images/StockNotify/Search.png" width="230" title=“Stock Notify”>
 </p>
 
 # Quick Formula
